@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnemo369
+- 👋 Hi, I’m mnemo369
 - 👀 I’m interested in data base
 - 🌱 I’m currently learning pytho
 - 💞️ I’m looking to collaborate on ...
